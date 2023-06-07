@@ -1,0 +1,19 @@
+{
+  "Title": "Road Generator",
+  "Type": "tool",
+  "Org": "local",
+  "Ident": "road_generator",
+  "Tags": null,
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "Resources": null,
+  "MenuResources": null,
+  "HasCode": true,
+  "CodePath": "code",
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "Metadata": {
+    "ProjectTemplate": null
+  }
+}
